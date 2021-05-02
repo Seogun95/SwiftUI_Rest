@@ -50,7 +50,6 @@ struct ContentView: View {
                     
                 }
             }
-            
             .navigationBarTitle("충분한 휴식")
             .navigationBarItems(trailing:
                                     Button(action: calculateBedtime) {
